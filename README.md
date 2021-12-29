@@ -1,4 +1,4 @@
-# Project10_1picture_vote
+# AD_ex10_1picture_vote
 
 # 그림 투표해서 레이팅바 표시 
 
